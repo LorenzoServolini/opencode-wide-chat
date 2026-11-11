@@ -2,6 +2,8 @@
 
 An OpenCode Desktop plugin that expands the chat to the full window width, beyond the 1000px of the built-in **Wide** setting.
 
+![Before: with the built-in Wide setting the chat stops at 1000px. After: with opencode-wide-chat it uses the full window width.](https://raw.githubusercontent.com/LorenzoServolini/opencode-wide-chat/main/docs/before-after.png)
+
 Useful on large screens: when the chat area is narrower than about 1000px, **Wide** already fills it and the plugin changes nothing.
 
 ## Install
