@@ -1,16 +1,19 @@
 {
   "name": "opencode-wide-chat",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "OpenCode Desktop plugin that expands the chat to the full window width.",
   "keywords": [
     "opencode",
     "opencode-plugin",
     "opencode-desktop",
     "opencode-gui",
+    "gui-plugin",
     "chat",
+    "chat-width",
     "wide",
     "full-width",
-    "layout"
+    "layout",
+    "ui"
   ],
   "license": "MIT",
   "author": "Lorenzo Servolini",
