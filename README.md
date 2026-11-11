@@ -12,6 +12,14 @@ Useful on large screens: when the chat area is narrower than about 1000px, **Wid
 opencode plugin add opencode-wide-chat
 ```
 
+Or add it to your `opencode.json` yourself:
+
+```json
+{
+  "plugins": ["opencode-wide-chat"]
+}
+```
+
 Then open **Settings → Preferences → Timeline** and set **Timeline width** to **Wide**.
 
 ## How it works

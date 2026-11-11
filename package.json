@@ -1,6 +1,6 @@
 {
   "name": "opencode-wide-chat",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "OpenCode Desktop plugin that expands the chat to the full window width.",
   "keywords": [
     "opencode",
